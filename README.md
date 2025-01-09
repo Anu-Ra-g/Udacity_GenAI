@@ -6,4 +6,4 @@ This repo contains the exercise notebooks of Udacity Generative AI course in whi
 
 1. Exercise 1: Generating one token at a time
 
-    This exercise tells about how **LLM**s tokenize the text data. Tokenize means dividing the text data in such a way so that the model can understand. 
+    This exercise tells about how **LLM**s tokenize the text data. Tokenize means dividing the text data in such a way so that the model can understand. Along with that the exercise describes how the model predicts the next couple of words.
