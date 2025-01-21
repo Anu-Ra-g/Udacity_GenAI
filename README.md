@@ -11,3 +11,7 @@ This repo contains the exercise notebooks of Udacity Generative AI course in whi
 2. Exercise 2: Classifying images of handwritten digits using multi-layer perceptron
 
     This exercise shows a workflow to use the **MLP**(multi-layer perceptron) to classify a *MNIST* dataset to classify a set of picture of handwritten digits from 0 to 9.
+
+3. Exercise 3: Basics of Pytorch and Hugging Face. 
+    
+    This exercise teaches the functioning of **Neural Net**, how to set it up and *sentiment analysis* of some imdb movie reviews using a model from Hugging Face.
