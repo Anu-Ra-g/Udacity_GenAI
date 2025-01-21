@@ -15,3 +15,7 @@ This repo contains the exercise notebooks of Udacity Generative AI course in whi
 3. Exercise 3: Basics of Pytorch and Hugging Face. 
     
     This exercise teaches the functioning of **Neural Net**, how to set it up and *sentiment analysis* of some imdb movie reviews using a model from Hugging Face.
+
+4. Exercise 4: Transfer learning using **MobileNetV3**
+
+    MobileNetV3 is a light weight neural network used to classify images. This exercise is using this model to classfying an MNIST fashion image dataset and calculating the accuracy of the model.
